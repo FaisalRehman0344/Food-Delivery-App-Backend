@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6577982-a75e-46e3-94d8-8183da1c1b09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaeeView">
+    <option name="showModules" value="false" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Faisal Rehman\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qQ7Zx1wYpALlb3VbO7RisLQZsh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.fooddeliveryservice.app.entities" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/actuator/health" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/vnd.spring-boot.actuator.v3+json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FoodDeliveryServiceApplication">
+    <configuration name="FoodDeliveryServiceApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/FoodDeliveryServiceApplication.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="FoodDeliveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Food_Delivery_Service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fooddeliveryservice.app.FoodDeliveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.FoodDeliveryServiceApplication#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringMvcView">
+    <option name="showControllers" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6577982-a75e-46e3-94d8-8183da1c1b09" name="Default Changelist" comment="" />
+      <created>1617000022669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617000022669</updated>
+      <workItem from="1617000025073" duration="5307000" />
+      <workItem from="1617033506658" duration="6268000" />
+      <workItem from="1617081990875" duration="3529000" />
+      <workItem from="1617099347682" duration="632000" />
+      <workItem from="1617172779646" duration="519000" />
+      <workItem from="1617174668122" duration="1943000" />
+      <workItem from="1617193010466" duration="143000" />
+      <workItem from="1617193211818" duration="721000" />
+      <workItem from="1618063432156" duration="13182000" />
+      <workItem from="1618119609113" duration="10150000" />
+      <workItem from="1618141268418" duration="4414000" />
+      <workItem from="1618205608425" duration="497000" />
+      <workItem from="1618245971051" duration="33000" />
+      <workItem from="1618325753294" duration="2839000" />
+      <workItem from="1618561141631" duration="384000" />
+      <workItem from="1618562492790" duration="1872000" />
+      <workItem from="1618573007719" duration="1476000" />
+      <workItem from="1618577061498" duration="940000" />
+      <workItem from="1618653326065" duration="111000" />
+      <workItem from="1618662509268" duration="695000" />
+      <workItem from="1618666013607" duration="3259000" />
+      <workItem from="1618722727973" duration="16000" />
+      <workItem from="1618736319521" duration="1258000" />
+      <workItem from="1618824410896" duration="15000" />
+      <workItem from="1618824719162" duration="1347000" />
+      <workItem from="1618914640737" duration="1889000" />
+      <workItem from="1619004623581" duration="1027000" />
+      <workItem from="1619014103027" duration="6117000" />
+      <workItem from="1619116057215" duration="762000" />
+      <workItem from="1619199039099" duration="1776000" />
+      <workItem from="1619242521978" duration="3624000" />
+      <workItem from="1619253592555" duration="4469000" />
+      <workItem from="1619346100821" duration="2895000" />
+      <workItem from="1619368337753" duration="4242000" />
+      <workItem from="1619441075841" duration="3570000" />
+      <workItem from="1619521057312" duration="2054000" />
+      <workItem from="1619603502788" duration="2404000" />
+      <workItem from="1619631849607" duration="3259000" />
+      <workItem from="1619688824126" duration="2996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="255" key="#Assign_Data_Sources" timestamp="1619441220189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="582" y="255" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1619441220189" />
+    <state x="181" y="0" key="#Project_Structure" timestamp="1618063469235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="181" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1618063469235" />
+    <state x="293" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617099628907">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="293" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1617099628907" />
+    <state x="506" y="0" width="390" height="648" key="#com.intellij.ide.util.MemberChooser" timestamp="1619690403106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="506" y="0" width="390" height="648" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1619690403106" />
+    <state x="478" y="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1617002247978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="478" y="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1617002247978" />
+    <state x="497" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1617004140624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="497" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1617004140624" />
+    <state x="390" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1617036993487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1617036993487" />
+    <state x="431" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619443255831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="431" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1619443255831" />
+    <state width="1323" height="263" key="GridCell.Tab.0.bottom" timestamp="1619691857375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="263" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619691857375" />
+    <state width="1323" height="263" key="GridCell.Tab.0.center" timestamp="1619691857374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="263" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619691857374" />
+    <state width="1323" height="263" key="GridCell.Tab.0.left" timestamp="1619691857374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="263" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619691857374" />
+    <state width="1323" height="263" key="GridCell.Tab.0.right" timestamp="1619691857375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="263" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619691857375" />
+    <state width="1323" height="263" key="GridCell.Tab.1.bottom" timestamp="1619691857375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="263" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619691857375" />
+    <state width="1323" height="263" key="GridCell.Tab.1.center" timestamp="1619691857375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="263" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1619691857375" />
+    <state width="1323" height="263" key="GridCell.Tab.1.left" timestamp="1619691857375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="263" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1619691857375" />
+    <state width="1323" height="263" key="GridCell.Tab.1.right" timestamp="1619691857375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="263" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1619691857375" />
+    <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1619631956788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1619631956788" />
+    <state x="591" y="251" width="316" height="245" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1617099695723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="591" y="251" width="316" height="245" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1366.728@0.0.1366.728" timestamp="1617099695723" />
+    <state x="201" y="98" width="964" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1618144542667">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="201" y="98" width="964" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1618144542667" />
+    <state x="83" y="24" width="1235" height="664" key="new project wizard" timestamp="1617193320473">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="83" y="24" width="1235" height="664" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1617193320473" />
+    <state x="364" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1619631903055">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="364" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1619631903055" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="io.jsonwebtoken.MalformedJwtException" package="io.jsonwebtoken" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
