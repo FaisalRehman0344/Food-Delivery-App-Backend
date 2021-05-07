@@ -1,7 +1,6 @@
 package com.fooddeliveryservice.app.controllers;
 
 import com.fooddeliveryservice.app.entities.AvailableFood;
-import com.fooddeliveryservice.app.repository.AvailableFoodRepo;
 import com.fooddeliveryservice.app.userservices.AvailableFoodService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

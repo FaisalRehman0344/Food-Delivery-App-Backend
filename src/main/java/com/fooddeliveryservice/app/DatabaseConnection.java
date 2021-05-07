@@ -3,8 +3,6 @@ package com.fooddeliveryservice.app;
 import org.springframework.boot.jdbc.DataSourceBuilder;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.stereotype.Service;
-
 import javax.sql.DataSource;
 
 

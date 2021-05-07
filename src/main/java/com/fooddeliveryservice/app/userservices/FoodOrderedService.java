@@ -2,7 +2,6 @@ package com.fooddeliveryservice.app.userservices;
 
 import com.fooddeliveryservice.app.entities.FoodOrdered;
 import com.fooddeliveryservice.app.repository.FoodOrderedRepo;
-import org.apache.catalina.Server;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
