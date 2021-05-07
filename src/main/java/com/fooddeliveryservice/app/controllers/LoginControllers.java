@@ -1,12 +1,11 @@
 package com.fooddeliveryservice.app.controllers;
 
 import com.fooddeliveryservice.app.detailservices.MyUserDetailsService;
-import com.fooddeliveryservice.app.entities.Users;
+import com.fooddeliveryservice.app.entities.User;
 import com.fooddeliveryservice.app.jwtutil.JwtUtil;
 import com.fooddeliveryservice.app.models.AuthenticationRequest;
 import com.fooddeliveryservice.app.models.AuthenticationResponse;
 import com.fooddeliveryservice.app.models.UpdatePasswordModel;
-import com.fooddeliveryservice.app.models.UserExistException;
 import com.fooddeliveryservice.app.userservices.ControllerServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -15,9 +14,8 @@ import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.client.ResponseExtractor;
 
-import javax.servlet.http.HttpServletRequest;
+import java.util.List;
 
 @RestController
 public class LoginControllers {
@@ -52,19 +50,19 @@ public class LoginControllers {
     }
 
     @GetMapping(value = "/user/getUser")
-    public Users getUser(@RequestHeader("Authorization") String token){
+    public User getUser(@RequestHeader("Authorization") String token){
         String jwt = token.substring(8);
         String username = jwtUtilToken.extractUsername(jwt);
         return controllerServices.login(username);
     }
 
     @PostMapping(value = "/signup")
-    public ResponseEntity<?> userSignup(@RequestBody Users user) {
+    public ResponseEntity<?> userSignup(@RequestBody User user) {
         return controllerServices.addUser(user);
     }
 
     @PostMapping(value = "/admin/signup")
-    public ResponseEntity<?> adminSignup(@RequestBody Users admin){
+    public ResponseEntity<?> adminSignup(@RequestBody User admin){
         return controllerServices.addAdmin(admin);
     }
 
@@ -73,7 +71,17 @@ public class LoginControllers {
         return controllerServices.updatePassword(newUser);
     }
     @PostMapping(value = "/user/updateUser")
-    public ResponseEntity<?> updateUser(@RequestBody Users user){
+    public ResponseEntity<?> updateUser(@RequestBody User user){
         return controllerServices.updateUser(user);
     }
+
+    @GetMapping(value = "/admin/getUsers")
+    public List<User> getUsers(){
+        return controllerServices.getUsers();
+    }
+    @GetMapping(value = "/admin/getAdmins")
+    public List<User> getAdmins(){
+        return controllerServices.getAdmins();
+    }
+
 }

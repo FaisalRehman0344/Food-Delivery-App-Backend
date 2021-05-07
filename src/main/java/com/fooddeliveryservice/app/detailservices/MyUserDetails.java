@@ -1,6 +1,6 @@
 package com.fooddeliveryservice.app.detailservices;
 
-import com.fooddeliveryservice.app.entities.Users;
+import com.fooddeliveryservice.app.entities.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -10,9 +10,9 @@ import java.util.List;
 
 public class MyUserDetails implements UserDetails {
 
-    private Users user;
+    private User user;
 
-    public MyUserDetails(Users user){
+    public MyUserDetails(User user){
         this.user = user;
 
     }

@@ -1,6 +1,6 @@
 package com.fooddeliveryservice.app.detailservices;
 
-import com.fooddeliveryservice.app.entities.Users;
+import com.fooddeliveryservice.app.entities.User;
 import com.fooddeliveryservice.app.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -14,7 +14,7 @@ public class MyUserDetailsService implements UserDetailsService {
     UserRepository repository;
     @Override
     public UserDetails loadUserByUsername(String s) throws UsernameNotFoundException {
-        Users user = repository.findUsersByUsername(s);
+        User user = repository.findUserByUsername(s);
         if (user != null){
             return new MyUserDetails(user);
         } else {

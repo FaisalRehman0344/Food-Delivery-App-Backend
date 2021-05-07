@@ -3,8 +3,49 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6577982-a75e-46e3-94d8-8183da1c1b09" name="Default Changelist" comment="" />
+    <list default="true" id="a6577982-a75e-46e3-94d8-8183da1c1b09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/FoodDeliveryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/FoodDeliveryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/controllers/LoginControllers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/controllers/LoginControllers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/detailservices/MyUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/detailservices/MyUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/detailservices/MyUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/detailservices/MyUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/entities/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/sockets/SocketConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/sockets/SocketController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/userservices/ControllerServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fooddeliveryservice/app/userservices/ControllerServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/FoodDeliveryServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/FoodDeliveryServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/controllers/LoginControllers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/controllers/LoginControllers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/detailservices/MyUserDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/detailservices/MyUserDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/detailservices/MyUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/detailservices/MyUserDetailsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/entities/Users.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/securityconfiguration/SecurityConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/securityconfiguration/SecurityConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/sockets/SocketConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/sockets/SocketController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/userservices/ControllerServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fooddeliveryservice/app/userservices/ControllerServices.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +59,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JavaeeView">
     <option name="showModules" value="false" />
   </component>
@@ -29,6 +73,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1qQ7Zx1wYpALlb3VbO7RisLQZsh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,6 +85,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -77,6 +123,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.FoodDeliveryServiceApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FoodDeliveryServiceApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/FoodDeliveryServiceApplication.http" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -143,11 +200,23 @@
       <workItem from="1619603502788" duration="2404000" />
       <workItem from="1619631849607" duration="3259000" />
       <workItem from="1619688824126" duration="2996000" />
+      <workItem from="1620368997781" duration="1381000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="582" y="255" key="#Assign_Data_Sources" timestamp="1619441220189">
@@ -182,38 +251,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="431" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1619443255831" />
-    <state width="1323" height="263" key="GridCell.Tab.0.bottom" timestamp="1619691857375">
+    <state width="1323" height="129" key="GridCell.Tab.0.bottom" timestamp="1620370590247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="263" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619691857375" />
-    <state width="1323" height="263" key="GridCell.Tab.0.center" timestamp="1619691857374">
+    <state width="1323" height="129" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620370590247" />
+    <state width="1323" height="129" key="GridCell.Tab.0.center" timestamp="1620370590247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="263" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619691857374" />
-    <state width="1323" height="263" key="GridCell.Tab.0.left" timestamp="1619691857374">
+    <state width="1323" height="129" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1620370590247" />
+    <state width="1323" height="129" key="GridCell.Tab.0.left" timestamp="1620370590247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="263" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619691857374" />
-    <state width="1323" height="263" key="GridCell.Tab.0.right" timestamp="1619691857375">
+    <state width="1323" height="129" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1620370590247" />
+    <state width="1323" height="129" key="GridCell.Tab.0.right" timestamp="1620370590247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="263" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619691857375" />
-    <state width="1323" height="263" key="GridCell.Tab.1.bottom" timestamp="1619691857375">
+    <state width="1323" height="129" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1620370590247" />
+    <state width="1323" height="129" key="GridCell.Tab.1.bottom" timestamp="1620370590263">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="263" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619691857375" />
-    <state width="1323" height="263" key="GridCell.Tab.1.center" timestamp="1619691857375">
+    <state width="1323" height="129" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620370590263" />
+    <state width="1323" height="129" key="GridCell.Tab.1.center" timestamp="1620370590263">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="263" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1619691857375" />
-    <state width="1323" height="263" key="GridCell.Tab.1.left" timestamp="1619691857375">
+    <state width="1323" height="129" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1620370590263" />
+    <state width="1323" height="129" key="GridCell.Tab.1.left" timestamp="1620370590263">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="263" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1619691857375" />
-    <state width="1323" height="263" key="GridCell.Tab.1.right" timestamp="1619691857375">
+    <state width="1323" height="129" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1620370590263" />
+    <state width="1323" height="129" key="GridCell.Tab.1.right" timestamp="1620370590263">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="263" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1619691857375" />
+    <state width="1323" height="129" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1620370590263" />
     <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1619631956788">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -230,10 +299,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="83" y="24" width="1235" height="664" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1617193320473" />
-    <state x="364" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1619631903055">
+    <state x="364" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1620370609617">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="364" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1619631903055" />
+    <state x="364" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1620370609617" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
